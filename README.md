@@ -1,11 +1,4 @@
-# MongoDB: Complete Study Notes and Backend Guide
-
-**Level:** Beginner → Intermediate → Advanced  
-**Stack:** MongoDB, mongosh, Node.js, Express, Mongoose  
-**Example domain:** Students and courses  
-**Documentation checked:** 11 September 2026
-
-> A comprehensive learning guide to the core database and practical backend development. Specialized features have introductory coverage and official references; no single guide replaces the full product manual. Run destructive exercises only in a practice database.
+# MongoDB:
 
 ## Contents
 
